@@ -38,9 +38,9 @@
 
 <div align="center">
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusgsw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusgsw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgsw&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgsw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=matheusgsw&theme=tokyonight&hide_border=true&locale=pt_BR)
 
