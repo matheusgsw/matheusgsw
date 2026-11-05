@@ -1,96 +1,205 @@
 
-<h1 align="center">Matheus Guimarães</h1>
-
-<h3 align="center">
-  Offensive Security | Red Team | Penetration Testing
-</h3>
+<!-- ========================================= -->
+<!-- MATHEUS | OFFENSIVE SECURITY PROFILE -->
+<!-- ========================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Red+Team+Enthusiast;Penetration+Testing;Offensive+Security+Research;Think+like+an+attacker." />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b1f,100:00ff41&height=200&section=header&text=MATHEUS%20&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%7C%20RED%20TEAM%20%7C%20PENTESTING&descSize=13&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Red%20Team-00ff41?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Pentesting-00ff41?style=flat-square" />
-  <img src="https://img.shields.io/badge/Field-Offensive%20Security-00ff41?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Offensive+Security+Enthusiast;Red+Team+%7C+Penetration+Testing;Reconnaissance+%7C+Enumeration;Learn.+Test.+Understand.+Repeat." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matheusgsw&label=PROFILE+VIEWS&color=00ff41&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/matheusgsw?label=FOLLOWERS&style=flat-square&color=00ff41" />
+  <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE%20SECURITY-00ff41?style=flat-square" />
 </p>
 
 ---
 
-### `whoami`
+## `01` // WHOAMI
 
 ```bash
-root@matheus:~# whoami
+┌──(matheus㉿kali)-[~]
+└─$ whoami
 
-Cybersecurity enthusiast focused on Offensive Security,
-Red Team operations and Penetration Testing.
+Matheus Guimarães
+Software Engineering Student
+Offensive Security Enthusiast
 
-Interested in identifying vulnerabilities, understanding
-attack surfaces and exploring adversary techniques.
+┌──(matheus㉿kali)-[~]
+└─$ cat about.txt
 
-Learning through hands-on labs, CTFs and personal projects.
+Focused on Offensive Security, Red Team operations
+and Penetration Testing.
+
+Interested in understanding attack surfaces,
+identifying vulnerabilities and studying adversary
+techniques through hands-on practice.
+
+Learning through labs, CTFs, research and projects.
 ```
 
-### 🎯 Focus Areas
+---
 
-- 🔴 Red Team Operations
-- ⚔️ Penetration Testing
-- 🌐 Web Application Security
-- 🔍 Reconnaissance & Enumeration
-- 🖥️ Network Security
-- 🐧 Linux & Windows Security
-- 🔐 Active Directory
-- 🧬 Privilege Escalation
-
-### 🛠️ Tools & Technologies
+## `02` // MISSION OBJECTIVES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,powershell,git,github,vscode" />
+  <img src="https://img.shields.io/badge/01-RED%20TEAM-111111?style=for-the-badge&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/02-PENTESTING-111111?style=for-the-badge&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/03-OFFENSIVE%20SECURITY-111111?style=for-the-badge&logoColor=00ff41" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔴 Red Team</h3>
+      <ul>
+        <li>Adversary Simulation</li>
+        <li>Red Team Methodology</li>
+        <li>Initial Access</li>
+        <li>Privilege Escalation</li>
+        <li>Lateral Movement</li>
+        <li>Active Directory Security</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚔️ Penetration Testing</h3>
+      <ul>
+        <li>Reconnaissance</li>
+        <li>Enumeration</li>
+        <li>Network Pentesting</li>
+        <li>Web Application Security</li>
+        <li>Vulnerability Assessment</li>
+        <li>Exploitation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `03` // TECHNICAL INTERESTS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,powershell,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" />
-</p>
-
-### 📚 Learning & Research
-
-```text
-[+] Red Team Methodology
-[+] Web & Network Penetration Testing
-[+] Active Directory Security
-[+] Linux / Windows Privilege Escalation
-[+] Vulnerability Assessment
-[+] Security Automation with Python
-```
-
-### 📂 Projects & Write-ups
-
-I use this space to document my learning journey,
-share security research and develop tools related
-to offensive security.
-
-- CTF Write-ups
-- Penetration Testing Labs
-- Red Team Research
-- Custom Security Tools
-- Automation Scripts
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://img.shields.io/badge/KALI_LINUX-111111?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/BURP_SUITE-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
+  <img src="https://img.shields.io/badge/METASPLOIT-111111?style=for-the-badge&logo=metasploit&logoColor=2596CD" />
+  <img src="https://img.shields.io/badge/NMAP-111111?style=for-the-badge&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/WIRESHARK-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
 </p>
 
 ---
 
-<p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i>
-</p>
+## `04` // LEARNING ROADMAP
+
+```text
+┌──────────────────────────────────────────┐
+│           OFFENSIVE SECURITY             │
+├──────────────────────────────────────────┤
+│                                          │
+│  [>] Linux & Windows Security            │
+│  [>] Networking Fundamentals             │
+│  [>] Reconnaissance & Enumeration        │
+│  [>] Web Application Pentesting          │
+│  [>] Network Penetration Testing         │
+│  [>] Privilege Escalation                │
+│  [>] Active Directory Security           │
+│  [>] Red Team Operations                 │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+---
+
+## `05` // LABS & RESEARCH
 
 <p align="center">
-  <sub>Authorized testing only. Knowledge through practice.</sub>
+  <i>Learning by doing. Documenting every step.</i>
 </p>
+
+This repository is my space for documenting practical
+knowledge and sharing my development in cybersecurity.
+
+| Category | Focus |
+|---|---|
+| CTF Write-ups | Challenges and solutions |
+| Pentest Labs | Practical penetration testing |
+| Red Team Labs | Adversary simulation |
+| Security Scripts | Python and Bash automation |
+| Research Notes | Technical documentation |
+
+<p align="center">
+  <a href="https://github.com/matheusgsw?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## `06` // GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=matheusgsw&theme=forest" alt="GitHub Statistics" />
+</p>
+
+---
+
+
+
+## CONTRIBUTION GRAPH
+
+<div align="center">
+
+  <img src="https://ghchart.rshah.org/00ff41/matheusgsw"
+       alt="Matheus GitHub Contributions"
+       width="100%" />
+
+</div>
+
+---
+
+---
+
+## `08` // CONTRIBUTION SNAKE
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/matheusgsw/matheusgsw/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+    width="100%"
+  />
+</div>
+
+---
+
+
+## CONNECT
+
+<div align="center">
+
+### `> establish_connection.sh`
+
+**Interested in Offensive Security, Red Team & Penetration Testing?**
+
+Feel free to connect, collaborate, or exchange knowledge.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/matheusgsw)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/matheusgsw/)
+
+<br>
+
+`[ CONNECTION STATUS: OPEN ]`
+
+</div>
+
+---
