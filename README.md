@@ -164,7 +164,7 @@ knowledge and sharing my development in cybersecurity.
 ---
 
 
-##  `08` // CONNECT
+## `08` // CONNECT
 
 <div align="center">
 
@@ -179,6 +179,8 @@ Feel free to connect, collaborate, or exchange knowledge.
 [![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/matheusgsw)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/matheusgsw/)
+&nbsp;
+[![X](https://img.shields.io/badge/X%20%2F%20TWITTER-0D1117?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/slkenzz)
 
 <br>
 
