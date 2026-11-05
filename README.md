@@ -151,23 +151,7 @@ knowledge and sharing my development in cybersecurity.
 
 ---
 
-
-
-## CONTRIBUTION GRAPH
-
-<div align="center">
-
-  <img src="https://ghchart.rshah.org/00ff41/matheusgsw"
-       alt="Matheus GitHub Contributions"
-       width="100%" />
-
-</div>
-
----
-
----
-
-## `08` // CONTRIBUTION SNAKE
+## CONTRIBUTION SNAKE
 
 <div align="center">
   <img
