@@ -151,7 +151,7 @@ knowledge and sharing my development in cybersecurity.
 
 ---
 
-## CONTRIBUTION SNAKE
+##  `07` // CONTRIBUTION SNAKE
 
 <div align="center">
   <img
@@ -164,7 +164,7 @@ knowledge and sharing my development in cybersecurity.
 ---
 
 
-## CONNECT
+##  `08` // CONNECT
 
 <div align="center">
 
