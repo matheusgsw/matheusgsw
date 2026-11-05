@@ -1,46 +1,96 @@
-# 👩🏻‍💻 Matheus Guimarães de Oliveira
 
-**`🎓 Estudante de desenvolvimento Backend | Java enthusiast | Apaixonado por lógica, APIs e bancos de dados 🚀`**
+<h1 align="center">Matheus Guimarães</h1>
 
-# Olá, eu sou Matheus! 👋
+<h3 align="center">
+  Offensive Security | Red Team | Penetration Testing
+</h3>
 
-## 🛠️ Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Red+Team+Enthusiast;Penetration+Testing;Offensive+Security+Research;Think+like+an+attacker." />
+</p>
 
-### Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Red%20Team-00ff41?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Pentesting-00ff41?style=flat-square" />
+  <img src="https://img.shields.io/badge/Field-Offensive%20Security-00ff41?style=flat-square" />
+</p>
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### Ferramentas & Ambiente
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### `whoami`
 
-## 🚀 Sobre mim
+```bash
+root@matheus:~# whoami
 
-- 🔭 Atualmente construindo projetos para consolidar minha base em Back-end
-- 🌱 Aprendendo sobre **APIs REST**, **Spring Boot** e **modelagem de dados**
-- 💡 Fascinado por como sistemas robustos são construídos por baixo dos panos
-- 🎯 Objetivo: me tornar um desenvolvedor Back-end sólido e contribuir com projetos reais
+Cybersecurity enthusiast focused on Offensive Security,
+Red Team operations and Penetration Testing.
 
-## 📫 Contato
+Interested in identifying vulnerabilities, understanding
+attack surfaces and exploring adversary techniques.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusgsw)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgoliveira2@gmail.com)
+Learning through hands-on labs, CTFs and personal projects.
+```
 
-## 📊 Estatísticas
+### 🎯 Focus Areas
 
-<div align="center">
+- 🔴 Red Team Operations
+- ⚔️ Penetration Testing
+- 🌐 Web Application Security
+- 🔍 Reconnaissance & Enumeration
+- 🖥️ Network Security
+- 🐧 Linux & Windows Security
+- 🔐 Active Directory
+- 🧬 Privilege Escalation
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusgsw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### 🛠️ Tools & Technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgsw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,powershell,git,github,vscode" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=matheusgsw&theme=tokyonight&hide_border=true&locale=pt_BR)
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" />
+</p>
 
-</div>
+### 📚 Learning & Research
+
+```text
+[+] Red Team Methodology
+[+] Web & Network Penetration Testing
+[+] Active Directory Security
+[+] Linux / Windows Privilege Escalation
+[+] Vulnerability Assessment
+[+] Security Automation with Python
+```
+
+### 📂 Projects & Write-ups
+
+I use this space to document my learning journey,
+share security research and develop tools related
+to offensive security.
+
+- CTF Write-ups
+- Penetration Testing Labs
+- Red Team Research
+- Custom Security Tools
+- Automation Scripts
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i>
+</p>
+
+<p align="center">
+  <sub>Authorized testing only. Knowledge through practice.</sub>
+</p>
